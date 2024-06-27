@@ -28,7 +28,7 @@ export default async function BlogArticle({
   return (
     <div className="mt-8">
       <h1>
-        <span className="block text-base text-center text-slate-700 tracking-wide uppercase">
+        <span className="block text-base text-center text-slate-500 tracking-wide uppercase">
           Hélio Sal
         </span>
         <span className="mt-2 block text-3xl text-center leading-8 font-bold tracking-tight sm:text-4xl">
