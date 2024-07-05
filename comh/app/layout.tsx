@@ -33,8 +33,8 @@ export default function RootLayout({
             </main>
             
           </ThemeProvider>
-        <div className="bg-slate-100 py-16">
-        <Footer />
+        <div className="bg-slate-100 py-16 dark:bg-slate-700 ">
+          <Footer />
         </div>
         
       </body>
